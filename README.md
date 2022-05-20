@@ -1,0 +1,2 @@
+# aegisub_manual
+ 

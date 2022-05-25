@@ -20,7 +20,7 @@ unanimated的[Aegisub脚本](https://github.com/unanimated/luaegisub)中文手�
 
 > 持续更新中, 若未写完的插件说明(带有*)将会跳转至unanimated自己的英文手册界面.
 
-> 可以在[[comment](./comment)]中看到本人对这些lua脚本一些注解, 正因如此, 并不会很快的书写手册.
+> [[comment](./comment)]中有本人对这些lua脚本一些注解, 正因如此, 并不会很快的书写手册.
 
 ---
 

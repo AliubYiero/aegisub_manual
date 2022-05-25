@@ -4,6 +4,8 @@ unanimated的[Aegisub脚本](https://github.com/unanimated/luaegisub)中文手�
 
 挺有意思的一组Aegisub脚本, 您可以通过上述链接访问他的Github Aegisub插件库和他自己编写的英文手册.
 
+> 我有点怀疑他做了一整套的特效标签可视化出来.
+
 ---
 
 | 无GUI插件                                                    | GUI插件                                                      | GUI插件                                                      | GUI插件                                                      |
@@ -18,4 +20,7 @@ unanimated的[Aegisub脚本](https://github.com/unanimated/luaegisub)中文手�
 
 > 持续更新中, 若未写完的插件说明(带有*)将会跳转至unanimated自己的英文手册界面.
 
+> 可以在[[comment](./comment)]中看到本人对这些lua脚本一些注解, 正因如此, 并不会很快的书写手册.
+
 ---
+

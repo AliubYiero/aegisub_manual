@@ -34,7 +34,7 @@ unanimated的Aegisub自动化插件中文手册(by Yiero).
 | [*Activ8 /](http://unanimated.hostfree.pw/ts/scripts-manuals.htm#activ8) [*ModiFire](http://unanimated.hostfree.pw/ts/scripts-manuals.htm#modifire) | 简化复杂文本 / 修改现有标签                                  |
 | [*Masquerade](http://unanimated.hostfree.pw/ts/scripts-manuals.htm#masquerade) | save/load masks; shift tags in line; apply \an or \q2 tags; alpha time signs; make various replacements |
 | [*NecrosCopy](http://unanimated.hostfree.pw/ts/scripts-manuals.htm#necroscopy) | clip2fax; clip2frz; copy things from one line to others; split line into parts |
-| [*Encode - Hardsub](http://unanimated.hostfree.pw/ts/scripts-manuals.htm#enchsub) | 压制文件(通过x264)                                           |
+| [*Encode - Hardsub](http://unanimated.hostfree.pw/ts/scripts-manuals.htm#enchsub) | 压制文件(通过x264) \| 这里我推荐使用domo的[[Encode - Hardsub](https://github.com/qwe7989199/aegisub_scripts/releases/tag/v1.3)]压制插件 |
 | [*Multiplexer](http://unanimated.hostfree.pw/ts/scripts-manuals.htm#mux) | 混流/封装视频(通过mkvmerge)                                  |
 | [*Runemap](http://unanimated.hostfree.pw/ts/scripts-manuals.htm#runemap) | 显示平假名/片假名与对应的罗马字的列表                        |
 | [*Backup Checker](http://unanimated.hostfree.pw/ts/scripts-manuals.htm#backup) | 备份文件, 使您能在编辑文本后再回看未编辑行检查               |
